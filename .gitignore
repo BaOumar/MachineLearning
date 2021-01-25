@@ -18,5 +18,5 @@
 ## PyCharm
 *.idea/*.iml
 
-# auxiliary python files
+# auxiliary python files gt
 *.pyc
